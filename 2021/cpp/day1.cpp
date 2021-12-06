@@ -42,4 +42,6 @@ int main(){
    compareDepths(depths);
 
    cout << counter << "\n";
+
+   return 0;
 }
