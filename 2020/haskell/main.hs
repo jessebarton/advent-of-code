@@ -3,6 +3,8 @@
 Multiline
 -}
 
-import Data.List
-import System.IO
+module Main
+  where
+
+main=putStrLn "Hello, World!"
 
